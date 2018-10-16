@@ -1,0 +1,13 @@
+title: About IDZ and DBB
+author: jayakarm
+email: jayakarm@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+First steps include some of the tasks you might want to complete to begin developing COBOL, PL/I, Assembler, and C++ applications by using the Developer for z Systems® z/OS® integrated development environment (zIDE). It provides links to other topics that contain the details about how to complete each task.
+The following table describes some tasks that you might want to begin with when you start working with zIDE.
+# social links
+twitter_username: your-twitter-handle
+github_username:  your-github-handle
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima 
